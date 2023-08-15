@@ -1,5 +1,7 @@
 ### Hi there, I'm Fahad Saleem 👋
 
+<p Have 2+ years of experience in building mobile applications. Familiar with mobile development tools and frameworks like Android native with Java or Kotlin, Flutter with Dart. Have experience in writing clean and maintainable code, conducting the Test-Driven Development process, and implementing clean architecture approaches./>
+
 
 📈 my github stats
 
