@@ -1,6 +1,22 @@
 ### Hi there, I'm Fahad Saleem 👋
 
-<p> Have 2+ years of experience in building mobile applications. Familiar with mobile development tools and frameworks like Android native with Java or Kotlin, Flutter with Dart. Have experience in writing clean and maintainable code, conducting the Test-Driven Development process, and implementing clean architecture approaches.</p>
+<p> 📱 Mobile App Developer | 3+ Years Experience
+
+📱 Mobile App Developer with over 3 years of hands-on experience in crafting innovative and user-friendly mobile applications. Proficient in a variety of mobile development tools and frameworks, including:
+
+🚀 Android Native Development with Java 📱 Kotlin Enthusiast
+🦋 Flutter Fanatic with Dart
+🧹 Passionate about writing clean, efficient, and maintainable code
+🧪 Advocate for Test-Driven Development (TDD)
+🏗️ Enthusiastic about implementing clean architecture principles
+
+🌟 My goal is to create high-quality, performant, and user-centric mobile apps. I'm always eager to learn and adapt to the ever-evolving world of mobile development.
+
+📚 Continuous learner 🚀 Problem solver 🧰 Code craftsman
+
+Let's connect and collaborate on exciting mobile app projects! 📲🚀
+
+</p>
 
 
 📈 my github stats
