@@ -2,19 +2,19 @@
 
 <p> 📱 Mobile App Developer | 3+ Years Experience
 
-📱 Mobile App Developer with over 3 years of hands-on experience in crafting innovative and user-friendly mobile applications. Proficient in a variety of mobile development tools and frameworks, including:
+</b>📱 Mobile App Developer with over 3 years of hands-on experience in crafting innovative and user-friendly mobile applications. Proficient in a variety of mobile development tools and frameworks, including:
 
-🚀 Android Native Development with Java 📱 Kotlin Enthusiast
-🦋 Flutter Fanatic with Dart
-🧹 Passionate about writing clean, efficient, and maintainable code
-🧪 Advocate for Test-Driven Development (TDD)
-🏗️ Enthusiastic about implementing clean architecture principles
+</b>🚀 Android Native Development with Java 📱 Kotlin Enthusiast
+</b>🦋 Flutter Fanatic with Dart
+</b>🧹 Passionate about writing clean, efficient, and maintainable code
+</b>🧪 Advocate for Test-Driven Development (TDD)
+</b>🏗️ Enthusiastic about implementing clean architecture principles
 
-🌟 My goal is to create high-quality, performant, and user-centric mobile apps. I'm always eager to learn and adapt to the ever-evolving world of mobile development.
+</b>🌟 My goal is to create high-quality, performant, and user-centric mobile apps. I'm always eager to learn and adapt to the ever-evolving world of mobile development.
 
-📚 Continuous learner 🚀 Problem solver 🧰 Code craftsman
+</b>📚 Continuous learner 🚀 Problem solver 🧰 Code craftsman
 
-Let's connect and collaborate on exciting mobile app projects! 📲🚀
+</b>Let's connect and collaborate on exciting mobile app projects! 📲🚀
 
 </p>
 
