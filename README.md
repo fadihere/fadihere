@@ -1,7 +1,5 @@
 ### Hi there, I'm Fahad Saleem 👋
 
-<p> 📱 Mobile App Developer | 3+ Years Experience
-
 </b>📱 Mobile App Developer with over 3 years of hands-on experience in crafting innovative and user-friendly mobile applications. Proficient in a variety of mobile development tools and frameworks, including:
 
 </b>🚀 Android Native Development with Java 📱 Kotlin Enthusiast
