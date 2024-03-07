@@ -13,4 +13,6 @@
 
 </b>Let's connect and collaborate on exciting mobile app projects! 📲🚀
 
+<img src="https://raw.githubusercontent.com/fadihere/fadihere/output/snake.svg" alt="Snake animation" />
+
 </p>
