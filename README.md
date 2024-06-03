@@ -11,7 +11,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="40" alt="android logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="apple logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg](https://www.gstatic.com/devrel-devsite/prod/vd59826aff4c44c40ae6b66bb6749cdc41cdaad671ce8aa5208d5acf15cc7ec42/firebase/images/lockup-dark-theme.svg)" height="40" alt="firebase"  />
 </div>
 
 ##
