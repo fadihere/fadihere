@@ -20,7 +20,7 @@ I'm a **Full Stack Developer** with over 4 years of experience crafting intuitiv
 
 - 🌐 **Front-End Enthusiast**: Proficient in React, TypeScript, and SCSS, building responsive and accessible UI components for web applications.
 - 📱 **Mobile App Developer**: Skilled in Flutter and Dart, creating cross-platform mobile apps with a focus on performance and user experience.
-- ⚙️ **Backend Builder**: Experienced with Node.js, Express, and databases like MongoDB and PostgreSQL to develop robust APIs and server-side logic.
+- ⚙️ **Backend Builder**: Experienced with python with FastAPI, and databases like PostgreSQL to develop robust APIs and server-side logic.
 - 🧪 **TDD Advocate**: Passionate about Test-Driven Development using tools like Playwright and Cypress to ensure reliable, bug-free code.
 - 🏗️ **Clean Architecture Fan**: Committed to writing maintainable, scalable code following clean architecture principles.
 - 🌟 **Goal**: Deliver high-quality, user-focused applications that solve real-world problems with elegant solutions.
